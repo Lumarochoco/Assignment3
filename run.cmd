@@ -1,1 +1,1 @@
-java Main
+java -cp C:\Users\romai\IdeaProjects\Assignment3\bin Main

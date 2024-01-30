@@ -1,1 +1,1 @@
-javac *.java
+javac -d C:\Users\romai\IdeaProjects\Assignment3\bin src/*.java
