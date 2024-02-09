@@ -1,5 +1,5 @@
-import src.is.hi.rbd3.hbv202g.assignment3.backend.Greeter;
-import src.is.hi.rbd3.hbv202g.assignment3.frontend.UserInterface;
+import is.hi.rbd3.hbv202g.assignment3.backend.Greeter;
+import is.hi.rbd3.hbv202g.assignment3.frontend.UserInterface;
 
 public class Main {
 
